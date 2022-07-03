@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fourtitude-recipe-app</string>
+    <string name="placeholder_name">PlaceHolder Name</string>
+    <string name="placeholder_type">PlaceHolder Type</string>
+
+    <string-array name="arrayTypes">
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Vegan</item>
+    </string-array>
+
+</resources>
